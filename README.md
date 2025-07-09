@@ -73,7 +73,9 @@ To apply, simply set the `data-theme` attribute on `<body>` or a container:
 <button class="btn btn-pill">Pill</button>
 ```
 
-See the [demo](https://your-live-demo-link.com) for more.
+## 🎨 Live Demo
+[https://rubyrayjuntos.github.io/chiaroscuro-css/](https://rubyrayjuntos.github.io/chiaroscuro-css/)
+
 
 ---
 
