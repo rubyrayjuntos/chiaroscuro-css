@@ -1,0 +1,35 @@
+{
+    "name": "chiaroscuro-css",
+    "version": "1.0.0",
+    "description": "Chiaroscuro – Light, shadow, and balance, redefined for the web. A lightweight CSS micro-library for accessible neumorphism with personality-driven theming, responsive design, and WCAG compliance.",
+    "main": "src/neumorphic.css",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rubyrayjuntos/chiaroscuro-css.git"
+    },
+    "keywords": [
+      "css",
+      "neumorphism",
+      "accessibility",
+      "responsive",
+      "wcag",
+      "design-system",
+      "theme",
+      "lightweight",
+      "micro-library"
+    ],
+    "author": "Ray Swan <RayCSwan@yahoo.com> (https://ray.codes)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/rubyrayjuntos/chiaroscuro-css/issues"
+    },
+    "homepage": "https://github.com/rubyrayjuntos/chiaroscuro-css#readme",
+    "scripts": {
+      "start": "echo \"No build step — pure CSS\"",
+      "test": "echo \"No test suite specified\""
+    },
+    "files": [
+      "src/neumorphic.css"
+    ]
+  }
+  
